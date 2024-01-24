@@ -1,1 +1,5 @@
-Hello This is Jebam
+Hello This is Jebamani.
+Full Stack learner.
+This file already commit to my github.
+let how to commit change.
+
